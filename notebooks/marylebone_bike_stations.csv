@@ -1,27 +1,27 @@
 name,latitude,longitude,free_bikes,empty_slots,total_bikes
-"001152 - Marylebone Lane, Marylebone",51.51475963,-0.148105415,2,21,23
-"200198 - Seymour Place, Marylebone",51.520331,-0.163667,13,16,29
-"001194 - Westminster University, Marylebone",51.52248185,-0.154907218,8,8,16
-"010630 - George Place Mews, Marylebone",51.51689296,-0.158249929,0,15,15
-"002693 - Shouldham Street, Marylebone",51.51809,-0.163609,15,0,15
+"001152 - Marylebone Lane, Marylebone",51.51475963,-0.148105415,0,21,21
+"200198 - Seymour Place, Marylebone",51.520331,-0.163667,3,24,27
+"001194 - Westminster University, Marylebone",51.52248185,-0.154907218,6,9,15
+"010630 - George Place Mews, Marylebone",51.51689296,-0.158249929,2,13,15
+"002693 - Shouldham Street, Marylebone",51.51809,-0.163609,5,9,14
 "200008 - Portman Square, Marylebone",51.516204,-0.155525,0,17,17
-"200005 - New Cavendish Street, Marylebone",51.519167,-0.147983,1,17,18
-"001058 - Edgware Road Station, Marylebone",51.519968,-0.169774,6,57,63
-"003482 - Beaumont Street, Marylebone",51.52200801,-0.151359288,5,17,22
-"001085 - Old Quebec Street, Marylebone",51.51457763,-0.158264483,0,16,16
-"001162 - Dorset Square, Marylebone",51.5225965,-0.161113413,2,11,13
-"001175 - Mallory Street, Marylebone",51.52505151,-0.166304359,7,12,19
-"001166 - Bell Street , Marylebone",51.52202903,-0.165842551,17,0,17
+"200005 - New Cavendish Street, Marylebone",51.519167,-0.147983,2,15,17
+"001058 - Edgware Road Station, Marylebone",51.519968,-0.169774,3,61,64
+"003482 - Beaumont Street, Marylebone",51.52200801,-0.151359288,3,20,23
+"001085 - Old Quebec Street, Marylebone",51.51457763,-0.158264483,0,14,14
+"001162 - Dorset Square, Marylebone",51.5225965,-0.161113413,14,0,14
+"001175 - Mallory Street, Marylebone",51.52505151,-0.166304359,6,14,20
+"001166 - Bell Street , Marylebone",51.52202903,-0.165842551,15,3,18
 "001003 - Chapel Place, Marylebone",51.51530805,-0.147203711,0,29,29
-"003424 - Broadcasting House, Marylebone",51.51811784,-0.144228881,0,17,17
-"010625 - Penfold Street, Marylebone",51.52289229,-0.171681991,9,6,15
-"001035 - Boston Place, Marylebone",51.522511,-0.162298,21,3,24
+"003424 - Broadcasting House, Marylebone",51.51811784,-0.144228881,1,16,17
+"010625 - Penfold Street, Marylebone",51.52289229,-0.171681991,4,9,13
+"001035 - Boston Place, Marylebone",51.522511,-0.162298,17,7,24
 "001225 - George Street, Marylebone",51.517703,-0.154106,0,26,26
-"300072 - Broadley Terrace, Marylebone",51.52456169,-0.165668686,8,9,17
-"001112 - Nutford Place, Marylebone",51.5165179,-0.164393768,6,9,15
-"001086 - Baker Street, Marylebone",51.51891348,-0.156166631,3,18,21
+"300072 - Broadley Terrace, Marylebone",51.52456169,-0.165668686,6,11,17
+"001112 - Nutford Place, Marylebone",51.5165179,-0.164393768,5,12,17
+"001086 - Baker Street, Marylebone",51.51891348,-0.156166631,4,18,22
 "001164 - Portland Place, Marylebone",51.52071513,-0.14521173,0,34,34
 "001033 - Paddington Street, Marylebone",51.52058381,-0.154701411,0,15,15
-"003476 - Hinde Street, Marylebone",51.51681444,-0.151926305,0,20,20
-"001036 - Crawford Street, Marylebone",51.52026,-0.157183945,0,16,16
-"002680 - Harrowby Street, Marylebone",51.5173721,-0.1642075,2,14,16
+"003476 - Hinde Street, Marylebone",51.51681444,-0.151926305,0,21,21
+"001036 - Crawford Street, Marylebone",51.52026,-0.157183945,0,17,17
+"002680 - Harrowby Street, Marylebone",51.5173721,-0.1642075,0,16,16
